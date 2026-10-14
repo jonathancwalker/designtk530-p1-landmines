@@ -1,0 +1,16 @@
+category,n_reports,n_with_severity,n_severe,pct_severe
+Baby,4540,4279,168,3.9
+Clothing and Accessories,1946,1850,156,8.4
+Containers & Packaging,1130,1064,17,1.6
+Drywall,65,50,4,8.0
+Electronics,5426,5094,28,0.5
+"Fuel, Lighters and Fireworks",575,562,42,7.5
+"Furniture, Furnishings & Decorations",6023,5702,140,2.5
+Hobby,428,400,10,2.5
+Home Maintenance and Structures,11744,11021,222,2.0
+Kitchen,25261,24123,87,0.4
+Personal Care,1194,1150,8,0.7
+Products at Public Facilities,94,92,5,5.4
+Sports and Recreation,4493,4335,290,6.7
+Toys & Children,3626,3493,142,4.1
+Yard & Garden,3455,3315,69,2.1

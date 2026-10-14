@@ -1,0 +1,87 @@
+{
+  "random": {
+    "n_train": 56000,
+    "n_test": 14000,
+    "accuracy": 93.4,
+    "macro_f1": 0.884,
+    "f1_by_category": {
+      "Baby": 0.937,
+      "Clothing and Accessories": 0.921,
+      "Containers & Packaging": 0.739,
+      "Drywall": 1.0,
+      "Electronics": 0.908,
+      "Fuel, Lighters and Fireworks": 0.913,
+      "Furniture, Furnishings & Decorations": 0.902,
+      "Hobby": 0.741,
+      "Home Maintenance and Structures": 0.919,
+      "Kitchen": 0.982,
+      "Personal Care": 0.888,
+      "Products at Public Facilities": 0.686,
+      "Sports and Recreation": 0.925,
+      "Toys & Children": 0.881,
+      "Yard & Garden": 0.925
+    },
+    "n_test_by_category": {
+      "Kitchen": 5052,
+      "Home Maintenance and Structures": 2349,
+      "Furniture, Furnishings & Decorations": 1205,
+      "Electronics": 1085,
+      "Baby": 908,
+      "Sports and Recreation": 898,
+      "Toys & Children": 725,
+      "Yard & Garden": 691,
+      "Clothing and Accessories": 389,
+      "Personal Care": 239,
+      "Containers & Packaging": 226,
+      "Fuel, Lighters and Fireworks": 115,
+      "Hobby": 86,
+      "Products at Public Facilities": 19,
+      "Drywall": 13
+    }
+  },
+  "newest": {
+    "n_train": 56423,
+    "n_test": 13577,
+    "accuracy": 90.4,
+    "macro_f1": 0.777,
+    "f1_by_category": {
+      "Baby": 0.935,
+      "Clothing and Accessories": 0.832,
+      "Containers & Packaging": 0.723,
+      "Electronics": 0.877,
+      "Fuel, Lighters and Fireworks": 0.885,
+      "Furniture, Furnishings & Decorations": 0.888,
+      "Hobby": 0.67,
+      "Home Maintenance and Structures": 0.873,
+      "Kitchen": 0.969,
+      "Personal Care": 0.846,
+      "Products at Public Facilities": 0.545,
+      "Sports and Recreation": 0.895,
+      "Toys & Children": 0.86,
+      "Yard & Garden": 0.859
+    },
+    "n_test_by_category": {
+      "Kitchen": 4357,
+      "Home Maintenance and Structures": 2124,
+      "Baby": 1258,
+      "Furniture, Furnishings & Decorations": 1177,
+      "Electronics": 1141,
+      "Sports and Recreation": 1031,
+      "Toys & Children": 859,
+      "Yard & Garden": 503,
+      "Containers & Packaging": 324,
+      "Clothing and Accessories": 285,
+      "Personal Care": 258,
+      "Hobby": 127,
+      "Fuel, Lighters and Fireworks": 120,
+      "Products at Public Facilities": 13
+    }
+  },
+  "hand_check": {
+    "right": 33,
+    "n": 40,
+    "pct": 82.5,
+    "ci_low": 68,
+    "ci_high": 91
+  }
+}

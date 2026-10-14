@@ -1,0 +1,834 @@
+source,category,year,n
+recalls,Baby,1976,1
+recalls,Baby,1977,1
+recalls,Baby,1978,3
+recalls,Baby,1979,1
+recalls,Baby,1980,2
+recalls,Baby,1981,1
+recalls,Baby,1982,4
+recalls,Baby,1983,5
+recalls,Baby,1984,6
+recalls,Baby,1985,6
+recalls,Baby,1986,8
+recalls,Baby,1987,9
+recalls,Baby,1988,9
+recalls,Baby,1989,9
+recalls,Baby,1990,13
+recalls,Baby,1991,7
+recalls,Baby,1992,6
+recalls,Baby,1993,8
+recalls,Baby,1994,6
+recalls,Baby,1995,11
+recalls,Baby,1996,6
+recalls,Baby,1997,11
+recalls,Baby,1998,9
+recalls,Baby,1999,11
+recalls,Baby,2000,15
+recalls,Baby,2001,16
+recalls,Baby,2002,8
+recalls,Baby,2003,8
+recalls,Baby,2004,10
+recalls,Baby,2005,19
+recalls,Baby,2006,10
+recalls,Baby,2007,20
+recalls,Baby,2008,27
+recalls,Baby,2009,32
+recalls,Baby,2010,32
+recalls,Baby,2011,19
+recalls,Baby,2012,20
+recalls,Baby,2013,12
+recalls,Baby,2014,7
+recalls,Baby,2015,16
+recalls,Baby,2016,16
+recalls,Baby,2017,8
+recalls,Baby,2018,10
+recalls,Baby,2019,8
+recalls,Baby,2020,11
+recalls,Baby,2021,7
+recalls,Baby,2022,14
+recalls,Baby,2023,18
+recalls,Baby,2024,22
+recalls,Baby,2025,49
+recalls,Baby,2026,37
+recalls,Clothing and Accessories,1974,1
+recalls,Clothing and Accessories,1975,2
+recalls,Clothing and Accessories,1978,2
+recalls,Clothing and Accessories,1979,1
+recalls,Clothing and Accessories,1986,1
+recalls,Clothing and Accessories,1987,1
+recalls,Clothing and Accessories,1988,1
+recalls,Clothing and Accessories,1989,1
+recalls,Clothing and Accessories,1990,2
+recalls,Clothing and Accessories,1991,3
+recalls,Clothing and Accessories,1992,2
+recalls,Clothing and Accessories,1993,3
+recalls,Clothing and Accessories,1994,3
+recalls,Clothing and Accessories,1995,3
+recalls,Clothing and Accessories,1996,2
+recalls,Clothing and Accessories,1997,6
+recalls,Clothing and Accessories,1998,3
+recalls,Clothing and Accessories,1999,6
+recalls,Clothing and Accessories,2000,21
+recalls,Clothing and Accessories,2001,16
+recalls,Clothing and Accessories,2002,8
+recalls,Clothing and Accessories,2003,10
+recalls,Clothing and Accessories,2004,19
+recalls,Clothing and Accessories,2005,20
+recalls,Clothing and Accessories,2006,33
+recalls,Clothing and Accessories,2007,66
+recalls,Clothing and Accessories,2008,43
+recalls,Clothing and Accessories,2009,49
+recalls,Clothing and Accessories,2010,58
+recalls,Clothing and Accessories,2011,35
+recalls,Clothing and Accessories,2012,23
+recalls,Clothing and Accessories,2013,38
+recalls,Clothing and Accessories,2014,27
+recalls,Clothing and Accessories,2015,28
+recalls,Clothing and Accessories,2016,20
+recalls,Clothing and Accessories,2017,37
+recalls,Clothing and Accessories,2018,17
+recalls,Clothing and Accessories,2019,23
+recalls,Clothing and Accessories,2020,12
+recalls,Clothing and Accessories,2021,19
+recalls,Clothing and Accessories,2022,34
+recalls,Clothing and Accessories,2023,42
+recalls,Clothing and Accessories,2024,26
+recalls,Clothing and Accessories,2025,29
+recalls,Clothing and Accessories,2026,21
+recalls,Containers & Packaging,1990,3
+recalls,Containers & Packaging,1992,5
+recalls,Containers & Packaging,1993,2
+recalls,Containers & Packaging,1994,2
+recalls,Containers & Packaging,1995,3
+recalls,Containers & Packaging,1997,1
+recalls,Containers & Packaging,1999,1
+recalls,Containers & Packaging,2000,3
+recalls,Containers & Packaging,2001,3
+recalls,Containers & Packaging,2002,5
+recalls,Containers & Packaging,2003,2
+recalls,Containers & Packaging,2004,3
+recalls,Containers & Packaging,2005,6
+recalls,Containers & Packaging,2006,2
+recalls,Containers & Packaging,2007,3
+recalls,Containers & Packaging,2008,10
+recalls,Containers & Packaging,2009,2
+recalls,Containers & Packaging,2010,7
+recalls,Containers & Packaging,2011,4
+recalls,Containers & Packaging,2012,7
+recalls,Containers & Packaging,2013,5
+recalls,Containers & Packaging,2014,5
+recalls,Containers & Packaging,2015,12
+recalls,Containers & Packaging,2016,6
+recalls,Containers & Packaging,2017,9
+recalls,Containers & Packaging,2018,12
+recalls,Containers & Packaging,2019,16
+recalls,Containers & Packaging,2020,49
+recalls,Containers & Packaging,2021,16
+recalls,Containers & Packaging,2022,21
+recalls,Containers & Packaging,2023,18
+recalls,Containers & Packaging,2024,13
+recalls,Containers & Packaging,2025,25
+recalls,Containers & Packaging,2026,26
+recalls,Drywall,2016,1
+recalls,Electronics,1973,2
+recalls,Electronics,1974,2
+recalls,Electronics,1983,1
+recalls,Electronics,1986,2
+recalls,Electronics,1987,1
+recalls,Electronics,1988,1
+recalls,Electronics,1989,1
+recalls,Electronics,1990,2
+recalls,Electronics,1992,1
+recalls,Electronics,1993,2
+recalls,Electronics,1994,3
+recalls,Electronics,1995,7
+recalls,Electronics,1996,9
+recalls,Electronics,1997,13
+recalls,Electronics,1998,11
+recalls,Electronics,1999,19
+recalls,Electronics,2000,10
+recalls,Electronics,2001,5
+recalls,Electronics,2002,12
+recalls,Electronics,2003,11
+recalls,Electronics,2004,12
+recalls,Electronics,2005,18
+recalls,Electronics,2006,22
+recalls,Electronics,2007,21
+recalls,Electronics,2008,18
+recalls,Electronics,2009,16
+recalls,Electronics,2010,22
+recalls,Electronics,2011,14
+recalls,Electronics,2012,16
+recalls,Electronics,2013,15
+recalls,Electronics,2014,26
+recalls,Electronics,2015,15
+recalls,Electronics,2016,19
+recalls,Electronics,2017,13
+recalls,Electronics,2018,17
+recalls,Electronics,2019,18
+recalls,Electronics,2020,14
+recalls,Electronics,2021,12
+recalls,Electronics,2022,14
+recalls,Electronics,2023,16
+recalls,Electronics,2024,22
+recalls,Electronics,2025,33
+recalls,Electronics,2026,32
+recalls,"Fuel, Lighters and Fireworks",1973,2
+recalls,"Fuel, Lighters and Fireworks",1982,1
+recalls,"Fuel, Lighters and Fireworks",1984,1
+recalls,"Fuel, Lighters and Fireworks",1986,1
+recalls,"Fuel, Lighters and Fireworks",1987,2
+recalls,"Fuel, Lighters and Fireworks",1988,2
+recalls,"Fuel, Lighters and Fireworks",1991,2
+recalls,"Fuel, Lighters and Fireworks",1992,2
+recalls,"Fuel, Lighters and Fireworks",1993,6
+recalls,"Fuel, Lighters and Fireworks",1994,5
+recalls,"Fuel, Lighters and Fireworks",1995,4
+recalls,"Fuel, Lighters and Fireworks",1996,3
+recalls,"Fuel, Lighters and Fireworks",1997,2
+recalls,"Fuel, Lighters and Fireworks",1998,4
+recalls,"Fuel, Lighters and Fireworks",1999,6
+recalls,"Fuel, Lighters and Fireworks",2000,9
+recalls,"Fuel, Lighters and Fireworks",2001,11
+recalls,"Fuel, Lighters and Fireworks",2002,11
+recalls,"Fuel, Lighters and Fireworks",2003,10
+recalls,"Fuel, Lighters and Fireworks",2004,6
+recalls,"Fuel, Lighters and Fireworks",2005,7
+recalls,"Fuel, Lighters and Fireworks",2006,2
+recalls,"Fuel, Lighters and Fireworks",2007,5
+recalls,"Fuel, Lighters and Fireworks",2008,6
+recalls,"Fuel, Lighters and Fireworks",2009,3
+recalls,"Fuel, Lighters and Fireworks",2010,2
+recalls,"Fuel, Lighters and Fireworks",2011,13
+recalls,"Fuel, Lighters and Fireworks",2012,1
+recalls,"Fuel, Lighters and Fireworks",2013,2
+recalls,"Fuel, Lighters and Fireworks",2014,4
+recalls,"Fuel, Lighters and Fireworks",2015,2
+recalls,"Fuel, Lighters and Fireworks",2016,3
+recalls,"Fuel, Lighters and Fireworks",2017,7
+recalls,"Fuel, Lighters and Fireworks",2018,2
+recalls,"Fuel, Lighters and Fireworks",2019,8
+recalls,"Fuel, Lighters and Fireworks",2020,1
+recalls,"Fuel, Lighters and Fireworks",2021,2
+recalls,"Fuel, Lighters and Fireworks",2023,1
+recalls,"Fuel, Lighters and Fireworks",2024,4
+recalls,"Fuel, Lighters and Fireworks",2025,7
+recalls,"Fuel, Lighters and Fireworks",2026,17
+recalls,"Furniture, Furnishings & Decorations",1974,5
+recalls,"Furniture, Furnishings & Decorations",1975,1
+recalls,"Furniture, Furnishings & Decorations",1976,3
+recalls,"Furniture, Furnishings & Decorations",1977,5
+recalls,"Furniture, Furnishings & Decorations",1978,1
+recalls,"Furniture, Furnishings & Decorations",1979,1
+recalls,"Furniture, Furnishings & Decorations",1980,1
+recalls,"Furniture, Furnishings & Decorations",1981,1
+recalls,"Furniture, Furnishings & Decorations",1982,1
+recalls,"Furniture, Furnishings & Decorations",1983,1
+recalls,"Furniture, Furnishings & Decorations",1984,1
+recalls,"Furniture, Furnishings & Decorations",1986,5
+recalls,"Furniture, Furnishings & Decorations",1987,5
+recalls,"Furniture, Furnishings & Decorations",1988,5
+recalls,"Furniture, Furnishings & Decorations",1989,1
+recalls,"Furniture, Furnishings & Decorations",1990,7
+recalls,"Furniture, Furnishings & Decorations",1991,5
+recalls,"Furniture, Furnishings & Decorations",1992,4
+recalls,"Furniture, Furnishings & Decorations",1993,12
+recalls,"Furniture, Furnishings & Decorations",1994,21
+recalls,"Furniture, Furnishings & Decorations",1995,17
+recalls,"Furniture, Furnishings & Decorations",1996,21
+recalls,"Furniture, Furnishings & Decorations",1997,15
+recalls,"Furniture, Furnishings & Decorations",1998,9
+recalls,"Furniture, Furnishings & Decorations",1999,18
+recalls,"Furniture, Furnishings & Decorations",2000,22
+recalls,"Furniture, Furnishings & Decorations",2001,33
+recalls,"Furniture, Furnishings & Decorations",2002,26
+recalls,"Furniture, Furnishings & Decorations",2003,29
+recalls,"Furniture, Furnishings & Decorations",2004,45
+recalls,"Furniture, Furnishings & Decorations",2005,42
+recalls,"Furniture, Furnishings & Decorations",2006,48
+recalls,"Furniture, Furnishings & Decorations",2007,62
+recalls,"Furniture, Furnishings & Decorations",2008,49
+recalls,"Furniture, Furnishings & Decorations",2009,53
+recalls,"Furniture, Furnishings & Decorations",2010,56
+recalls,"Furniture, Furnishings & Decorations",2011,36
+recalls,"Furniture, Furnishings & Decorations",2012,60
+recalls,"Furniture, Furnishings & Decorations",2013,54
+recalls,"Furniture, Furnishings & Decorations",2014,56
+recalls,"Furniture, Furnishings & Decorations",2015,54
+recalls,"Furniture, Furnishings & Decorations",2016,66
+recalls,"Furniture, Furnishings & Decorations",2017,57
+recalls,"Furniture, Furnishings & Decorations",2018,39
+recalls,"Furniture, Furnishings & Decorations",2019,37
+recalls,"Furniture, Furnishings & Decorations",2020,47
+recalls,"Furniture, Furnishings & Decorations",2021,34
+recalls,"Furniture, Furnishings & Decorations",2022,34
+recalls,"Furniture, Furnishings & Decorations",2023,42
+recalls,"Furniture, Furnishings & Decorations",2024,43
+recalls,"Furniture, Furnishings & Decorations",2025,79
+recalls,"Furniture, Furnishings & Decorations",2026,97
+recalls,Hobby,1989,2
+recalls,Hobby,1991,1
+recalls,Hobby,1992,1
+recalls,Hobby,1994,3
+recalls,Hobby,1995,2
+recalls,Hobby,1997,1
+recalls,Hobby,2000,1
+recalls,Hobby,2001,2
+recalls,Hobby,2002,3
+recalls,Hobby,2003,6
+recalls,Hobby,2004,3
+recalls,Hobby,2005,1
+recalls,Hobby,2006,4
+recalls,Hobby,2007,5
+recalls,Hobby,2008,5
+recalls,Hobby,2009,3
+recalls,Hobby,2010,2
+recalls,Hobby,2011,1
+recalls,Hobby,2012,1
+recalls,Hobby,2013,2
+recalls,Hobby,2014,2
+recalls,Hobby,2015,2
+recalls,Hobby,2016,3
+recalls,Hobby,2017,2
+recalls,Hobby,2018,2
+recalls,Hobby,2021,1
+recalls,Hobby,2022,2
+recalls,Hobby,2023,2
+recalls,Hobby,2024,1
+recalls,Hobby,2025,2
+recalls,Hobby,2026,4
+recalls,Home Maintenance and Structures,1973,4
+recalls,Home Maintenance and Structures,1974,4
+recalls,Home Maintenance and Structures,1975,9
+recalls,Home Maintenance and Structures,1976,20
+recalls,Home Maintenance and Structures,1977,10
+recalls,Home Maintenance and Structures,1978,20
+recalls,Home Maintenance and Structures,1979,10
+recalls,Home Maintenance and Structures,1980,10
+recalls,Home Maintenance and Structures,1981,7
+recalls,Home Maintenance and Structures,1982,10
+recalls,Home Maintenance and Structures,1983,9
+recalls,Home Maintenance and Structures,1984,21
+recalls,Home Maintenance and Structures,1985,12
+recalls,Home Maintenance and Structures,1986,9
+recalls,Home Maintenance and Structures,1987,10
+recalls,Home Maintenance and Structures,1988,20
+recalls,Home Maintenance and Structures,1989,13
+recalls,Home Maintenance and Structures,1990,13
+recalls,Home Maintenance and Structures,1991,22
+recalls,Home Maintenance and Structures,1992,18
+recalls,Home Maintenance and Structures,1993,6
+recalls,Home Maintenance and Structures,1994,11
+recalls,Home Maintenance and Structures,1995,24
+recalls,Home Maintenance and Structures,1996,50
+recalls,Home Maintenance and Structures,1997,57
+recalls,Home Maintenance and Structures,1998,51
+recalls,Home Maintenance and Structures,1999,40
+recalls,Home Maintenance and Structures,2000,25
+recalls,Home Maintenance and Structures,2001,42
+recalls,Home Maintenance and Structures,2002,58
+recalls,Home Maintenance and Structures,2003,36
+recalls,Home Maintenance and Structures,2004,59
+recalls,Home Maintenance and Structures,2005,57
+recalls,Home Maintenance and Structures,2006,57
+recalls,Home Maintenance and Structures,2007,65
+recalls,Home Maintenance and Structures,2008,59
+recalls,Home Maintenance and Structures,2009,59
+recalls,Home Maintenance and Structures,2010,44
+recalls,Home Maintenance and Structures,2011,40
+recalls,Home Maintenance and Structures,2012,48
+recalls,Home Maintenance and Structures,2013,28
+recalls,Home Maintenance and Structures,2014,53
+recalls,Home Maintenance and Structures,2015,40
+recalls,Home Maintenance and Structures,2016,50
+recalls,Home Maintenance and Structures,2017,27
+recalls,Home Maintenance and Structures,2018,45
+recalls,Home Maintenance and Structures,2019,32
+recalls,Home Maintenance and Structures,2020,34
+recalls,Home Maintenance and Structures,2021,34
+recalls,Home Maintenance and Structures,2022,38
+recalls,Home Maintenance and Structures,2023,41
+recalls,Home Maintenance and Structures,2024,44
+recalls,Home Maintenance and Structures,2025,47
+recalls,Home Maintenance and Structures,2026,58
+recalls,Kitchen,1974,1
+recalls,Kitchen,1977,5
+recalls,Kitchen,1978,5
+recalls,Kitchen,1979,1
+recalls,Kitchen,1980,1
+recalls,Kitchen,1982,2
+recalls,Kitchen,1984,2
+recalls,Kitchen,1985,1
+recalls,Kitchen,1986,1
+recalls,Kitchen,1987,2
+recalls,Kitchen,1988,1
+recalls,Kitchen,1989,4
+recalls,Kitchen,1991,4
+recalls,Kitchen,1992,4
+recalls,Kitchen,1993,3
+recalls,Kitchen,1994,9
+recalls,Kitchen,1995,9
+recalls,Kitchen,1996,4
+recalls,Kitchen,1997,2
+recalls,Kitchen,1998,2
+recalls,Kitchen,1999,3
+recalls,Kitchen,2000,9
+recalls,Kitchen,2001,16
+recalls,Kitchen,2002,15
+recalls,Kitchen,2003,14
+recalls,Kitchen,2004,13
+recalls,Kitchen,2005,16
+recalls,Kitchen,2006,14
+recalls,Kitchen,2007,31
+recalls,Kitchen,2008,21
+recalls,Kitchen,2009,33
+recalls,Kitchen,2010,21
+recalls,Kitchen,2011,22
+recalls,Kitchen,2012,19
+recalls,Kitchen,2013,22
+recalls,Kitchen,2014,9
+recalls,Kitchen,2015,28
+recalls,Kitchen,2016,17
+recalls,Kitchen,2017,11
+recalls,Kitchen,2018,9
+recalls,Kitchen,2019,20
+recalls,Kitchen,2020,10
+recalls,Kitchen,2021,12
+recalls,Kitchen,2022,16
+recalls,Kitchen,2023,22
+recalls,Kitchen,2024,15
+recalls,Kitchen,2025,13
+recalls,Kitchen,2026,14
+recalls,Personal Care,1978,1
+recalls,Personal Care,1979,3
+recalls,Personal Care,1980,2
+recalls,Personal Care,1986,1
+recalls,Personal Care,1988,1
+recalls,Personal Care,1989,1
+recalls,Personal Care,1990,1
+recalls,Personal Care,1992,1
+recalls,Personal Care,1993,1
+recalls,Personal Care,1994,1
+recalls,Personal Care,1995,1
+recalls,Personal Care,1996,3
+recalls,Personal Care,1997,2
+recalls,Personal Care,1998,2
+recalls,Personal Care,1999,1
+recalls,Personal Care,2001,1
+recalls,Personal Care,2002,1
+recalls,Personal Care,2003,2
+recalls,Personal Care,2004,7
+recalls,Personal Care,2005,1
+recalls,Personal Care,2006,3
+recalls,Personal Care,2007,3
+recalls,Personal Care,2008,1
+recalls,Personal Care,2009,3
+recalls,Personal Care,2010,1
+recalls,Personal Care,2011,1
+recalls,Personal Care,2013,1
+recalls,Personal Care,2014,1
+recalls,Personal Care,2015,2
+recalls,Personal Care,2017,1
+recalls,Personal Care,2018,2
+recalls,Personal Care,2019,2
+recalls,Personal Care,2020,1
+recalls,Personal Care,2021,2
+recalls,Personal Care,2023,1
+recalls,Personal Care,2024,2
+recalls,Personal Care,2025,10
+recalls,Personal Care,2026,5
+recalls,Products at Public Facilities,1992,1
+recalls,Products at Public Facilities,2002,1
+recalls,Products at Public Facilities,2003,1
+recalls,Products at Public Facilities,2006,1
+recalls,Products at Public Facilities,2008,1
+recalls,Products at Public Facilities,2009,1
+recalls,Products at Public Facilities,2015,2
+recalls,Products at Public Facilities,2016,1
+recalls,Products at Public Facilities,2018,2
+recalls,Products at Public Facilities,2020,1
+recalls,Products at Public Facilities,2022,4
+recalls,Products at Public Facilities,2023,1
+recalls,Products at Public Facilities,2026,1
+recalls,Sports and Recreation,1976,2
+recalls,Sports and Recreation,1977,6
+recalls,Sports and Recreation,1978,5
+recalls,Sports and Recreation,1979,4
+recalls,Sports and Recreation,1981,2
+recalls,Sports and Recreation,1983,4
+recalls,Sports and Recreation,1984,3
+recalls,Sports and Recreation,1985,4
+recalls,Sports and Recreation,1986,1
+recalls,Sports and Recreation,1987,7
+recalls,Sports and Recreation,1988,8
+recalls,Sports and Recreation,1989,6
+recalls,Sports and Recreation,1990,7
+recalls,Sports and Recreation,1991,6
+recalls,Sports and Recreation,1992,15
+recalls,Sports and Recreation,1993,11
+recalls,Sports and Recreation,1994,6
+recalls,Sports and Recreation,1995,16
+recalls,Sports and Recreation,1996,18
+recalls,Sports and Recreation,1997,18
+recalls,Sports and Recreation,1998,19
+recalls,Sports and Recreation,1999,27
+recalls,Sports and Recreation,2000,27
+recalls,Sports and Recreation,2001,40
+recalls,Sports and Recreation,2002,43
+recalls,Sports and Recreation,2003,29
+recalls,Sports and Recreation,2004,50
+recalls,Sports and Recreation,2005,75
+recalls,Sports and Recreation,2006,58
+recalls,Sports and Recreation,2007,58
+recalls,Sports and Recreation,2008,63
+recalls,Sports and Recreation,2009,73
+recalls,Sports and Recreation,2010,52
+recalls,Sports and Recreation,2011,56
+recalls,Sports and Recreation,2012,73
+recalls,Sports and Recreation,2013,57
+recalls,Sports and Recreation,2014,67
+recalls,Sports and Recreation,2015,70
+recalls,Sports and Recreation,2016,86
+recalls,Sports and Recreation,2017,73
+recalls,Sports and Recreation,2018,61
+recalls,Sports and Recreation,2019,55
+recalls,Sports and Recreation,2020,49
+recalls,Sports and Recreation,2021,58
+recalls,Sports and Recreation,2022,75
+recalls,Sports and Recreation,2023,78
+recalls,Sports and Recreation,2024,73
+recalls,Sports and Recreation,2025,73
+recalls,Sports and Recreation,2026,64
+recalls,Toys & Children,1974,1
+recalls,Toys & Children,1976,1
+recalls,Toys & Children,1977,8
+recalls,Toys & Children,1978,4
+recalls,Toys & Children,1979,10
+recalls,Toys & Children,1980,5
+recalls,Toys & Children,1982,4
+recalls,Toys & Children,1983,2
+recalls,Toys & Children,1984,9
+recalls,Toys & Children,1985,5
+recalls,Toys & Children,1986,15
+recalls,Toys & Children,1987,8
+recalls,Toys & Children,1988,24
+recalls,Toys & Children,1989,39
+recalls,Toys & Children,1990,27
+recalls,Toys & Children,1991,30
+recalls,Toys & Children,1992,19
+recalls,Toys & Children,1993,18
+recalls,Toys & Children,1994,34
+recalls,Toys & Children,1995,25
+recalls,Toys & Children,1996,15
+recalls,Toys & Children,1997,16
+recalls,Toys & Children,1998,21
+recalls,Toys & Children,1999,16
+recalls,Toys & Children,2000,36
+recalls,Toys & Children,2001,43
+recalls,Toys & Children,2002,33
+recalls,Toys & Children,2003,35
+recalls,Toys & Children,2004,28
+recalls,Toys & Children,2005,42
+recalls,Toys & Children,2006,41
+recalls,Toys & Children,2007,99
+recalls,Toys & Children,2008,73
+recalls,Toys & Children,2009,41
+recalls,Toys & Children,2010,47
+recalls,Toys & Children,2011,45
+recalls,Toys & Children,2012,24
+recalls,Toys & Children,2013,38
+recalls,Toys & Children,2014,21
+recalls,Toys & Children,2015,15
+recalls,Toys & Children,2016,26
+recalls,Toys & Children,2017,22
+recalls,Toys & Children,2018,17
+recalls,Toys & Children,2019,8
+recalls,Toys & Children,2020,14
+recalls,Toys & Children,2021,12
+recalls,Toys & Children,2022,32
+recalls,Toys & Children,2023,26
+recalls,Toys & Children,2024,25
+recalls,Toys & Children,2025,37
+recalls,Toys & Children,2026,77
+recalls,Yard & Garden,1975,1
+recalls,Yard & Garden,1977,1
+recalls,Yard & Garden,1978,2
+recalls,Yard & Garden,1979,2
+recalls,Yard & Garden,1980,1
+recalls,Yard & Garden,1981,1
+recalls,Yard & Garden,1982,1
+recalls,Yard & Garden,1983,1
+recalls,Yard & Garden,1984,1
+recalls,Yard & Garden,1985,2
+recalls,Yard & Garden,1986,2
+recalls,Yard & Garden,1987,4
+recalls,Yard & Garden,1988,3
+recalls,Yard & Garden,1989,3
+recalls,Yard & Garden,1990,3
+recalls,Yard & Garden,1991,4
+recalls,Yard & Garden,1992,3
+recalls,Yard & Garden,1993,3
+recalls,Yard & Garden,1994,5
+recalls,Yard & Garden,1995,6
+recalls,Yard & Garden,1996,7
+recalls,Yard & Garden,1997,7
+recalls,Yard & Garden,1998,2
+recalls,Yard & Garden,1999,8
+recalls,Yard & Garden,2000,13
+recalls,Yard & Garden,2001,17
+recalls,Yard & Garden,2002,32
+recalls,Yard & Garden,2003,22
+recalls,Yard & Garden,2004,23
+recalls,Yard & Garden,2005,19
+recalls,Yard & Garden,2006,24
+recalls,Yard & Garden,2007,14
+recalls,Yard & Garden,2008,16
+recalls,Yard & Garden,2009,15
+recalls,Yard & Garden,2010,18
+recalls,Yard & Garden,2011,27
+recalls,Yard & Garden,2012,18
+recalls,Yard & Garden,2013,16
+recalls,Yard & Garden,2014,18
+recalls,Yard & Garden,2015,19
+recalls,Yard & Garden,2016,16
+recalls,Yard & Garden,2017,13
+recalls,Yard & Garden,2018,23
+recalls,Yard & Garden,2019,14
+recalls,Yard & Garden,2020,14
+recalls,Yard & Garden,2021,10
+recalls,Yard & Garden,2022,8
+recalls,Yard & Garden,2023,16
+recalls,Yard & Garden,2024,15
+recalls,Yard & Garden,2025,16
+recalls,Yard & Garden,2026,6
+incidents,Baby,2011,484
+incidents,Baby,2012,447
+incidents,Baby,2013,432
+incidents,Baby,2014,331
+incidents,Baby,2015,241
+incidents,Baby,2016,152
+incidents,Baby,2017,175
+incidents,Baby,2018,143
+incidents,Baby,2019,175
+incidents,Baby,2020,154
+incidents,Baby,2021,155
+incidents,Baby,2022,187
+incidents,Baby,2023,206
+incidents,Baby,2024,214
+incidents,Baby,2025,383
+incidents,Baby,2026,661
+incidents,Clothing and Accessories,2011,322
+incidents,Clothing and Accessories,2012,351
+incidents,Clothing and Accessories,2013,110
+incidents,Clothing and Accessories,2014,335
+incidents,Clothing and Accessories,2015,79
+incidents,Clothing and Accessories,2016,49
+incidents,Clothing and Accessories,2017,51
+incidents,Clothing and Accessories,2018,44
+incidents,Clothing and Accessories,2019,70
+incidents,Clothing and Accessories,2020,35
+incidents,Clothing and Accessories,2021,65
+incidents,Clothing and Accessories,2022,79
+incidents,Clothing and Accessories,2023,71
+incidents,Clothing and Accessories,2024,84
+incidents,Clothing and Accessories,2025,105
+incidents,Clothing and Accessories,2026,96
+incidents,Containers & Packaging,2011,41
+incidents,Containers & Packaging,2012,66
+incidents,Containers & Packaging,2013,50
+incidents,Containers & Packaging,2014,50
+incidents,Containers & Packaging,2015,45
+incidents,Containers & Packaging,2016,45
+incidents,Containers & Packaging,2017,57
+incidents,Containers & Packaging,2018,60
+incidents,Containers & Packaging,2019,104
+incidents,Containers & Packaging,2020,73
+incidents,Containers & Packaging,2021,72
+incidents,Containers & Packaging,2022,60
+incidents,Containers & Packaging,2023,83
+incidents,Containers & Packaging,2024,103
+incidents,Containers & Packaging,2025,98
+incidents,Containers & Packaging,2026,123
+incidents,Drywall,2011,40
+incidents,Drywall,2012,17
+incidents,Drywall,2013,1
+incidents,Drywall,2014,1
+incidents,Drywall,2015,3
+incidents,Drywall,2018,2
+incidents,Drywall,2019,1
+incidents,Electronics,2011,308
+incidents,Electronics,2012,310
+incidents,Electronics,2013,287
+incidents,Electronics,2014,560
+incidents,Electronics,2015,435
+incidents,Electronics,2016,388
+incidents,Electronics,2017,375
+incidents,Electronics,2018,272
+incidents,Electronics,2019,253
+incidents,Electronics,2020,243
+incidents,Electronics,2021,364
+incidents,Electronics,2022,264
+incidents,Electronics,2023,226
+incidents,Electronics,2024,272
+incidents,Electronics,2025,417
+incidents,Electronics,2026,452
+incidents,"Fuel, Lighters and Fireworks",2011,69
+incidents,"Fuel, Lighters and Fireworks",2012,47
+incidents,"Fuel, Lighters and Fireworks",2013,36
+incidents,"Fuel, Lighters and Fireworks",2014,23
+incidents,"Fuel, Lighters and Fireworks",2015,38
+incidents,"Fuel, Lighters and Fireworks",2016,30
+incidents,"Fuel, Lighters and Fireworks",2017,43
+incidents,"Fuel, Lighters and Fireworks",2018,24
+incidents,"Fuel, Lighters and Fireworks",2019,26
+incidents,"Fuel, Lighters and Fireworks",2020,21
+incidents,"Fuel, Lighters and Fireworks",2021,36
+incidents,"Fuel, Lighters and Fireworks",2022,30
+incidents,"Fuel, Lighters and Fireworks",2023,32
+incidents,"Fuel, Lighters and Fireworks",2024,34
+incidents,"Fuel, Lighters and Fireworks",2025,33
+incidents,"Fuel, Lighters and Fireworks",2026,53
+incidents,"Furniture, Furnishings & Decorations",2011,510
+incidents,"Furniture, Furnishings & Decorations",2012,472
+incidents,"Furniture, Furnishings & Decorations",2013,396
+incidents,"Furniture, Furnishings & Decorations",2014,388
+incidents,"Furniture, Furnishings & Decorations",2015,349
+incidents,"Furniture, Furnishings & Decorations",2016,370
+incidents,"Furniture, Furnishings & Decorations",2017,384
+incidents,"Furniture, Furnishings & Decorations",2018,277
+incidents,"Furniture, Furnishings & Decorations",2019,378
+incidents,"Furniture, Furnishings & Decorations",2020,273
+incidents,"Furniture, Furnishings & Decorations",2021,388
+incidents,"Furniture, Furnishings & Decorations",2022,274
+incidents,"Furniture, Furnishings & Decorations",2023,387
+incidents,"Furniture, Furnishings & Decorations",2024,404
+incidents,"Furniture, Furnishings & Decorations",2025,409
+incidents,"Furniture, Furnishings & Decorations",2026,364
+incidents,Hobby,2011,47
+incidents,Hobby,2012,41
+incidents,Hobby,2013,21
+incidents,Hobby,2014,21
+incidents,Hobby,2015,21
+incidents,Hobby,2016,17
+incidents,Hobby,2017,10
+incidents,Hobby,2018,14
+incidents,Hobby,2019,10
+incidents,Hobby,2020,21
+incidents,Hobby,2021,24
+incidents,Hobby,2022,31
+incidents,Hobby,2023,23
+incidents,Hobby,2024,39
+incidents,Hobby,2025,33
+incidents,Hobby,2026,55
+incidents,Home Maintenance and Structures,2011,812
+incidents,Home Maintenance and Structures,2012,995
+incidents,Home Maintenance and Structures,2013,813
+incidents,Home Maintenance and Structures,2014,779
+incidents,Home Maintenance and Structures,2015,825
+incidents,Home Maintenance and Structures,2016,901
+incidents,Home Maintenance and Structures,2017,870
+incidents,Home Maintenance and Structures,2018,662
+incidents,Home Maintenance and Structures,2019,577
+incidents,Home Maintenance and Structures,2020,508
+incidents,Home Maintenance and Structures,2021,695
+incidents,Home Maintenance and Structures,2022,548
+incidents,Home Maintenance and Structures,2023,635
+incidents,Home Maintenance and Structures,2024,681
+incidents,Home Maintenance and Structures,2025,723
+incidents,Home Maintenance and Structures,2026,720
+incidents,Kitchen,2011,2155
+incidents,Kitchen,2012,2875
+incidents,Kitchen,2013,2109
+incidents,Kitchen,2014,1706
+incidents,Kitchen,2015,1642
+incidents,Kitchen,2016,1546
+incidents,Kitchen,2017,1468
+incidents,Kitchen,2018,926
+incidents,Kitchen,2019,846
+incidents,Kitchen,2020,1446
+incidents,Kitchen,2021,1371
+incidents,Kitchen,2022,1461
+incidents,Kitchen,2023,1353
+incidents,Kitchen,2024,1456
+incidents,Kitchen,2025,1509
+incidents,Kitchen,2026,1392
+incidents,Personal Care,2011,89
+incidents,Personal Care,2012,97
+incidents,Personal Care,2013,83
+incidents,Personal Care,2014,83
+incidents,Personal Care,2015,75
+incidents,Personal Care,2016,65
+incidents,Personal Care,2017,122
+incidents,Personal Care,2018,71
+incidents,Personal Care,2019,73
+incidents,Personal Care,2020,34
+incidents,Personal Care,2021,45
+incidents,Personal Care,2022,35
+incidents,Personal Care,2023,64
+incidents,Personal Care,2024,53
+incidents,Personal Care,2025,84
+incidents,Personal Care,2026,121
+incidents,Products at Public Facilities,2011,9
+incidents,Products at Public Facilities,2012,11
+incidents,Products at Public Facilities,2013,7
+incidents,Products at Public Facilities,2014,3
+incidents,Products at Public Facilities,2015,6
+incidents,Products at Public Facilities,2016,3
+incidents,Products at Public Facilities,2017,5
+incidents,Products at Public Facilities,2018,2
+incidents,Products at Public Facilities,2019,3
+incidents,Products at Public Facilities,2020,4
+incidents,Products at Public Facilities,2021,11
+incidents,Products at Public Facilities,2022,7
+incidents,Products at Public Facilities,2023,10
+incidents,Products at Public Facilities,2024,4
+incidents,Products at Public Facilities,2025,5
+incidents,Products at Public Facilities,2026,4
+incidents,Sports and Recreation,2011,265
+incidents,Sports and Recreation,2012,374
+incidents,Sports and Recreation,2013,263
+incidents,Sports and Recreation,2014,210
+incidents,Sports and Recreation,2015,249
+incidents,Sports and Recreation,2016,223
+incidents,Sports and Recreation,2017,234
+incidents,Sports and Recreation,2018,224
+incidents,Sports and Recreation,2019,209
+incidents,Sports and Recreation,2020,223
+incidents,Sports and Recreation,2021,318
+incidents,Sports and Recreation,2022,339
+incidents,Sports and Recreation,2023,331
+incidents,Sports and Recreation,2024,266
+incidents,Sports and Recreation,2025,325
+incidents,Sports and Recreation,2026,440
+incidents,Toys & Children,2011,370
+incidents,Toys & Children,2012,367
+incidents,Toys & Children,2013,290
+incidents,Toys & Children,2014,247
+incidents,Toys & Children,2015,175
+incidents,Toys & Children,2016,126
+incidents,Toys & Children,2017,173
+incidents,Toys & Children,2018,131
+incidents,Toys & Children,2019,156
+incidents,Toys & Children,2020,129
+incidents,Toys & Children,2021,188
+incidents,Toys & Children,2022,192
+incidents,Toys & Children,2023,223
+incidents,Toys & Children,2024,250
+incidents,Toys & Children,2025,290
+incidents,Toys & Children,2026,319
+incidents,Yard & Garden,2011,374
+incidents,Yard & Garden,2012,367
+incidents,Yard & Garden,2013,288
+incidents,Yard & Garden,2014,220
+incidents,Yard & Garden,2015,198
+incidents,Yard & Garden,2016,225
+incidents,Yard & Garden,2017,221
+incidents,Yard & Garden,2018,226
+incidents,Yard & Garden,2019,152
+incidents,Yard & Garden,2020,148
+incidents,Yard & Garden,2021,208
+incidents,Yard & Garden,2022,166
+incidents,Yard & Garden,2023,159
+incidents,Yard & Garden,2024,169
+incidents,Yard & Garden,2025,181
+incidents,Yard & Garden,2026,153

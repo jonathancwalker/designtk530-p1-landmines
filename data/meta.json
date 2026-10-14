@@ -1,0 +1,11 @@
+{
+  "model": "minishlab/potion-base-8M",
+  "n_incidents": 70000,
+  "n_recalls": 10027,
+  "incident_date_range": "2011-03 to 2026-09",
+  "recall_date_max": "2026-09-24",
+  "n_incident_texts": 69999,
+  "n_mention_recall": 10365,
+  "kids_reports_with_age": 6602,
+  "kids_under5_pct": 83.2
+}

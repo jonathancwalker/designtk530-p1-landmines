@@ -1,0 +1,3 @@
+- **Agreed:** my A/B test kicks in too late. A redesign can take longer than 90 days.
+- **It got wrong:** it thought "1 in 7 reports mention a recall" came from 4 of my 30 sampled reports. It's 10,365 of all ~70,000.
+- **Took:** no sales data means no "most dangerous" ranking. So the real question became: can past failures inform future products?

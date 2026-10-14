@@ -1,0 +1,333 @@
+category,hazard,n_with_hazard,n_in_category,pct,source
+Baby,choking / ingestion,46,274,16.8,recalls
+Baby,crash / impact,3,274,1.1,recalls
+Baby,drowning,20,274,7.3,recalls
+Baby,electric shock,2,274,0.7,recalls
+Baby,fall / tip-over,92,274,33.6,recalls
+Baby,fire / burn,15,274,5.5,recalls
+Baby,laceration / cut,9,274,3.3,recalls
+Baby,mechanical failure / breakage,1,274,0.4,recalls
+Baby,none stated,15,274,5.5,recalls
+Baby,poison / chemical / lead,3,274,1.1,recalls
+Baby,regulatory violation,109,274,39.8,recalls
+Baby,strangulation / entrapment,80,274,29.2,recalls
+Baby,suffocation,65,274,23.7,recalls
+Clothing and Accessories,choking / ingestion,84,431,19.5,recalls
+Clothing and Accessories,crash / impact,1,431,0.2,recalls
+Clothing and Accessories,fall / tip-over,24,431,5.6,recalls
+Clothing and Accessories,fire / burn,208,431,48.3,recalls
+Clothing and Accessories,laceration / cut,11,431,2.6,recalls
+Clothing and Accessories,mechanical failure / breakage,8,431,1.9,recalls
+Clothing and Accessories,none stated,28,431,6.5,recalls
+Clothing and Accessories,poison / chemical / lead,15,431,3.5,recalls
+Clothing and Accessories,regulatory violation,211,431,49.0,recalls
+Clothing and Accessories,strangulation / entrapment,63,431,14.6,recalls
+Clothing and Accessories,suffocation,3,431,0.7,recalls
+Containers & Packaging,choking / ingestion,17,244,7.0,recalls
+Containers & Packaging,crash / impact,4,244,1.6,recalls
+Containers & Packaging,explosion / rupture,2,244,0.8,recalls
+Containers & Packaging,fire / burn,30,244,12.3,recalls
+Containers & Packaging,laceration / cut,27,244,11.1,recalls
+Containers & Packaging,mechanical failure / breakage,4,244,1.6,recalls
+Containers & Packaging,none stated,15,244,6.1,recalls
+Containers & Packaging,poison / chemical / lead,139,244,57.0,recalls
+Containers & Packaging,regulatory violation,162,244,66.4,recalls
+Containers & Packaging,strangulation / entrapment,1,244,0.4,recalls
+Drywall,none stated,1,1,100.0,recalls
+Electronics,choking / ingestion,20,296,6.8,recalls
+Electronics,crash / impact,4,296,1.4,recalls
+Electronics,drowning,2,296,0.7,recalls
+Electronics,electric shock,32,296,10.8,recalls
+Electronics,explosion / rupture,6,296,2.0,recalls
+Electronics,fall / tip-over,8,296,2.7,recalls
+Electronics,fire / burn,214,296,72.3,recalls
+Electronics,mechanical failure / breakage,5,296,1.7,recalls
+Electronics,none stated,17,296,5.7,recalls
+Electronics,poison / chemical / lead,1,296,0.3,recalls
+Electronics,regulatory violation,20,296,6.8,recalls
+Electronics,strangulation / entrapment,3,296,1.0,recalls
+"Fuel, Lighters and Fireworks",choking / ingestion,1,74,1.4,recalls
+"Fuel, Lighters and Fireworks",crash / impact,4,74,5.4,recalls
+"Fuel, Lighters and Fireworks",explosion / rupture,18,74,24.3,recalls
+"Fuel, Lighters and Fireworks",fire / burn,72,74,97.3,recalls
+"Fuel, Lighters and Fireworks",poison / chemical / lead,9,74,12.2,recalls
+"Fuel, Lighters and Fireworks",regulatory violation,30,74,40.5,recalls
+"Furniture, Furnishings & Decorations",choking / ingestion,26,835,3.1,recalls
+"Furniture, Furnishings & Decorations",crash / impact,32,835,3.8,recalls
+"Furniture, Furnishings & Decorations",electric shock,57,835,6.8,recalls
+"Furniture, Furnishings & Decorations",fall / tip-over,305,835,36.5,recalls
+"Furniture, Furnishings & Decorations",fire / burn,219,835,26.2,recalls
+"Furniture, Furnishings & Decorations",laceration / cut,75,835,9.0,recalls
+"Furniture, Furnishings & Decorations",mechanical failure / breakage,13,835,1.6,recalls
+"Furniture, Furnishings & Decorations",none stated,57,835,6.8,recalls
+"Furniture, Furnishings & Decorations",poison / chemical / lead,23,835,2.8,recalls
+"Furniture, Furnishings & Decorations",regulatory violation,184,835,22.0,recalls
+"Furniture, Furnishings & Decorations",strangulation / entrapment,189,835,22.6,recalls
+"Furniture, Furnishings & Decorations",suffocation,57,835,6.8,recalls
+Hobby,choking / ingestion,7,27,25.9,recalls
+Hobby,electric shock,4,27,14.8,recalls
+Hobby,fire / burn,8,27,29.6,recalls
+Hobby,laceration / cut,5,27,18.5,recalls
+Hobby,none stated,3,27,11.1,recalls
+Hobby,poison / chemical / lead,1,27,3.7,recalls
+Hobby,regulatory violation,7,27,25.9,recalls
+Home Maintenance and Structures,choking / ingestion,6,659,0.9,recalls
+Home Maintenance and Structures,crash / impact,37,659,5.6,recalls
+Home Maintenance and Structures,drowning,5,659,0.8,recalls
+Home Maintenance and Structures,electric shock,76,659,11.5,recalls
+Home Maintenance and Structures,explosion / rupture,12,659,1.8,recalls
+Home Maintenance and Structures,fall / tip-over,51,659,7.7,recalls
+Home Maintenance and Structures,fire / burn,332,659,50.4,recalls
+Home Maintenance and Structures,laceration / cut,54,659,8.2,recalls
+Home Maintenance and Structures,mechanical failure / breakage,49,659,7.4,recalls
+Home Maintenance and Structures,none stated,75,659,11.4,recalls
+Home Maintenance and Structures,poison / chemical / lead,57,659,8.6,recalls
+Home Maintenance and Structures,regulatory violation,25,659,3.8,recalls
+Home Maintenance and Structures,strangulation / entrapment,17,659,2.6,recalls
+Home Maintenance and Structures,suffocation,1,659,0.2,recalls
+Kitchen,choking / ingestion,15,259,5.8,recalls
+Kitchen,crash / impact,5,259,1.9,recalls
+Kitchen,electric shock,14,259,5.4,recalls
+Kitchen,fall / tip-over,6,259,2.3,recalls
+Kitchen,fire / burn,140,259,54.1,recalls
+Kitchen,laceration / cut,85,259,32.8,recalls
+Kitchen,mechanical failure / breakage,5,259,1.9,recalls
+Kitchen,none stated,12,259,4.6,recalls
+Kitchen,poison / chemical / lead,10,259,3.9,recalls
+Kitchen,regulatory violation,4,259,1.5,recalls
+Kitchen,strangulation / entrapment,1,259,0.4,recalls
+Personal Care,electric shock,16,31,51.6,recalls
+Personal Care,fire / burn,16,31,51.6,recalls
+Personal Care,laceration / cut,1,31,3.2,recalls
+Personal Care,none stated,1,31,3.2,recalls
+Personal Care,regulatory violation,3,31,9.7,recalls
+Products at Public Facilities,fall / tip-over,3,12,25.0,recalls
+Products at Public Facilities,fire / burn,2,12,16.7,recalls
+Products at Public Facilities,laceration / cut,1,12,8.3,recalls
+Products at Public Facilities,none stated,2,12,16.7,recalls
+Products at Public Facilities,strangulation / entrapment,4,12,33.3,recalls
+Sports and Recreation,choking / ingestion,6,1068,0.6,recalls
+Sports and Recreation,crash / impact,275,1068,25.7,recalls
+Sports and Recreation,drowning,53,1068,5.0,recalls
+Sports and Recreation,electric shock,6,1068,0.6,recalls
+Sports and Recreation,explosion / rupture,8,1068,0.7,recalls
+Sports and Recreation,fall / tip-over,284,1068,26.6,recalls
+Sports and Recreation,fire / burn,194,1068,18.2,recalls
+Sports and Recreation,laceration / cut,32,1068,3.0,recalls
+Sports and Recreation,mechanical failure / breakage,20,1068,1.9,recalls
+Sports and Recreation,none stated,183,1068,17.1,recalls
+Sports and Recreation,poison / chemical / lead,11,1068,1.0,recalls
+Sports and Recreation,regulatory violation,76,1068,7.1,recalls
+Sports and Recreation,strangulation / entrapment,31,1068,2.9,recalls
+Sports and Recreation,suffocation,2,1068,0.2,recalls
+Toys & Children,choking / ingestion,260,439,59.2,recalls
+Toys & Children,crash / impact,7,439,1.6,recalls
+Toys & Children,fall / tip-over,41,439,9.3,recalls
+Toys & Children,fire / burn,32,439,7.3,recalls
+Toys & Children,laceration / cut,38,439,8.7,recalls
+Toys & Children,mechanical failure / breakage,6,439,1.4,recalls
+Toys & Children,none stated,17,439,3.9,recalls
+Toys & Children,poison / chemical / lead,92,439,21.0,recalls
+Toys & Children,regulatory violation,141,439,32.1,recalls
+Toys & Children,strangulation / entrapment,14,439,3.2,recalls
+Toys & Children,suffocation,5,439,1.1,recalls
+Yard & Garden,choking / ingestion,4,249,1.6,recalls
+Yard & Garden,crash / impact,21,249,8.4,recalls
+Yard & Garden,electric shock,10,249,4.0,recalls
+Yard & Garden,explosion / rupture,3,249,1.2,recalls
+Yard & Garden,fall / tip-over,2,249,0.8,recalls
+Yard & Garden,fire / burn,124,249,49.8,recalls
+Yard & Garden,laceration / cut,53,249,21.3,recalls
+Yard & Garden,mechanical failure / breakage,4,249,1.6,recalls
+Yard & Garden,none stated,42,249,16.9,recalls
+Yard & Garden,poison / chemical / lead,3,249,1.2,recalls
+Yard & Garden,regulatory violation,4,249,1.6,recalls
+Yard & Garden,strangulation / entrapment,1,249,0.4,recalls
+Baby,choking / ingestion,497,4540,10.9,incidents
+Baby,crash / impact,43,4540,0.9,incidents
+Baby,drowning,20,4540,0.4,incidents
+Baby,electric shock,67,4540,1.5,incidents
+Baby,explosion / rupture,78,4540,1.7,incidents
+Baby,fall / tip-over,918,4540,20.2,incidents
+Baby,fire / burn,616,4540,13.6,incidents
+Baby,laceration / cut,365,4540,8.0,incidents
+Baby,mechanical failure / breakage,1124,4540,24.8,incidents
+Baby,none stated,1642,4540,36.2,incidents
+Baby,poison / chemical / lead,388,4540,8.5,incidents
+Baby,strangulation / entrapment,82,4540,1.8,incidents
+Baby,suffocation,140,4540,3.1,incidents
+Clothing and Accessories,choking / ingestion,148,1946,7.6,incidents
+Clothing and Accessories,crash / impact,26,1946,1.3,incidents
+Clothing and Accessories,drowning,4,1946,0.2,incidents
+Clothing and Accessories,electric shock,29,1946,1.5,incidents
+Clothing and Accessories,explosion / rupture,65,1946,3.3,incidents
+Clothing and Accessories,fall / tip-over,494,1946,25.4,incidents
+Clothing and Accessories,fire / burn,333,1946,17.1,incidents
+Clothing and Accessories,laceration / cut,202,1946,10.4,incidents
+Clothing and Accessories,mechanical failure / breakage,518,1946,26.6,incidents
+Clothing and Accessories,none stated,596,1946,30.6,incidents
+Clothing and Accessories,poison / chemical / lead,132,1946,6.8,incidents
+Clothing and Accessories,strangulation / entrapment,22,1946,1.1,incidents
+Clothing and Accessories,suffocation,2,1946,0.1,incidents
+Containers & Packaging,choking / ingestion,191,1130,16.9,incidents
+Containers & Packaging,crash / impact,32,1130,2.8,incidents
+Containers & Packaging,drowning,1,1130,0.1,incidents
+Containers & Packaging,electric shock,10,1130,0.9,incidents
+Containers & Packaging,explosion / rupture,258,1130,22.8,incidents
+Containers & Packaging,fall / tip-over,80,1130,7.1,incidents
+Containers & Packaging,fire / burn,143,1130,12.7,incidents
+Containers & Packaging,laceration / cut,243,1130,21.5,incidents
+Containers & Packaging,mechanical failure / breakage,232,1130,20.5,incidents
+Containers & Packaging,none stated,244,1130,21.6,incidents
+Containers & Packaging,poison / chemical / lead,180,1130,15.9,incidents
+Containers & Packaging,strangulation / entrapment,3,1130,0.3,incidents
+Containers & Packaging,suffocation,4,1130,0.4,incidents
+Drywall,crash / impact,2,65,3.1,incidents
+Drywall,electric shock,1,65,1.5,incidents
+Drywall,explosion / rupture,1,65,1.5,incidents
+Drywall,fall / tip-over,3,65,4.6,incidents
+Drywall,fire / burn,13,65,20.0,incidents
+Drywall,laceration / cut,1,65,1.5,incidents
+Drywall,mechanical failure / breakage,13,65,20.0,incidents
+Drywall,none stated,31,65,47.7,incidents
+Drywall,poison / chemical / lead,16,65,24.6,incidents
+Electronics,choking / ingestion,31,5426,0.6,incidents
+Electronics,crash / impact,72,5426,1.3,incidents
+Electronics,drowning,4,5426,0.1,incidents
+Electronics,electric shock,277,5426,5.1,incidents
+Electronics,explosion / rupture,1013,5426,18.7,incidents
+Electronics,fall / tip-over,254,5426,4.7,incidents
+Electronics,fire / burn,3707,5426,68.3,incidents
+Electronics,laceration / cut,227,5426,4.2,incidents
+Electronics,mechanical failure / breakage,1012,5426,18.7,incidents
+Electronics,none stated,785,5426,14.5,incidents
+Electronics,poison / chemical / lead,257,5426,4.7,incidents
+Electronics,strangulation / entrapment,3,5426,0.1,incidents
+Electronics,suffocation,15,5426,0.3,incidents
+"Fuel, Lighters and Fireworks",choking / ingestion,5,575,0.9,incidents
+"Fuel, Lighters and Fireworks",crash / impact,14,575,2.4,incidents
+"Fuel, Lighters and Fireworks",drowning,1,575,0.2,incidents
+"Fuel, Lighters and Fireworks",electric shock,11,575,1.9,incidents
+"Fuel, Lighters and Fireworks",explosion / rupture,180,575,31.3,incidents
+"Fuel, Lighters and Fireworks",fall / tip-over,46,575,8.0,incidents
+"Fuel, Lighters and Fireworks",fire / burn,386,575,67.1,incidents
+"Fuel, Lighters and Fireworks",laceration / cut,15,575,2.6,incidents
+"Fuel, Lighters and Fireworks",mechanical failure / breakage,102,575,17.7,incidents
+"Fuel, Lighters and Fireworks",none stated,101,575,17.6,incidents
+"Fuel, Lighters and Fireworks",poison / chemical / lead,30,575,5.2,incidents
+"Fuel, Lighters and Fireworks",suffocation,3,575,0.5,incidents
+"Furniture, Furnishings & Decorations",choking / ingestion,118,6023,2.0,incidents
+"Furniture, Furnishings & Decorations",crash / impact,222,6023,3.7,incidents
+"Furniture, Furnishings & Decorations",drowning,2,6023,0.0,incidents
+"Furniture, Furnishings & Decorations",electric shock,195,6023,3.2,incidents
+"Furniture, Furnishings & Decorations",explosion / rupture,1081,6023,17.9,incidents
+"Furniture, Furnishings & Decorations",fall / tip-over,1662,6023,27.6,incidents
+"Furniture, Furnishings & Decorations",fire / burn,1940,6023,32.2,incidents
+"Furniture, Furnishings & Decorations",laceration / cut,614,6023,10.2,incidents
+"Furniture, Furnishings & Decorations",mechanical failure / breakage,1894,6023,31.4,incidents
+"Furniture, Furnishings & Decorations",none stated,815,6023,13.5,incidents
+"Furniture, Furnishings & Decorations",poison / chemical / lead,395,6023,6.6,incidents
+"Furniture, Furnishings & Decorations",strangulation / entrapment,64,6023,1.1,incidents
+"Furniture, Furnishings & Decorations",suffocation,93,6023,1.5,incidents
+Hobby,choking / ingestion,39,428,9.1,incidents
+Hobby,crash / impact,9,428,2.1,incidents
+Hobby,drowning,2,428,0.5,incidents
+Hobby,electric shock,45,428,10.5,incidents
+Hobby,explosion / rupture,36,428,8.4,incidents
+Hobby,fall / tip-over,29,428,6.8,incidents
+Hobby,fire / burn,153,428,35.7,incidents
+Hobby,laceration / cut,60,428,14.0,incidents
+Hobby,mechanical failure / breakage,96,428,22.4,incidents
+Hobby,none stated,92,428,21.5,incidents
+Hobby,poison / chemical / lead,56,428,13.1,incidents
+Hobby,strangulation / entrapment,3,428,0.7,incidents
+Hobby,suffocation,5,428,1.2,incidents
+Home Maintenance and Structures,choking / ingestion,136,11744,1.2,incidents
+Home Maintenance and Structures,crash / impact,294,11744,2.5,incidents
+Home Maintenance and Structures,drowning,17,11744,0.1,incidents
+Home Maintenance and Structures,electric shock,546,11744,4.6,incidents
+Home Maintenance and Structures,explosion / rupture,1806,11744,15.4,incidents
+Home Maintenance and Structures,fall / tip-over,1168,11744,9.9,incidents
+Home Maintenance and Structures,fire / burn,5811,11744,49.5,incidents
+Home Maintenance and Structures,laceration / cut,1194,11744,10.2,incidents
+Home Maintenance and Structures,mechanical failure / breakage,3111,11744,26.5,incidents
+Home Maintenance and Structures,none stated,1918,11744,16.3,incidents
+Home Maintenance and Structures,poison / chemical / lead,874,11744,7.4,incidents
+Home Maintenance and Structures,strangulation / entrapment,19,11744,0.2,incidents
+Home Maintenance and Structures,suffocation,29,11744,0.2,incidents
+Kitchen,choking / ingestion,522,25261,2.1,incidents
+Kitchen,crash / impact,339,25261,1.3,incidents
+Kitchen,drowning,17,25261,0.1,incidents
+Kitchen,electric shock,603,25261,2.4,incidents
+Kitchen,explosion / rupture,5391,25261,21.3,incidents
+Kitchen,fall / tip-over,1719,25261,6.8,incidents
+Kitchen,fire / burn,14099,25261,55.8,incidents
+Kitchen,laceration / cut,2850,25261,11.3,incidents
+Kitchen,mechanical failure / breakage,6980,25261,27.6,incidents
+Kitchen,none stated,3087,25261,12.2,incidents
+Kitchen,poison / chemical / lead,914,25261,3.6,incidents
+Kitchen,strangulation / entrapment,4,25261,0.0,incidents
+Kitchen,suffocation,52,25261,0.2,incidents
+Personal Care,choking / ingestion,16,1194,1.3,incidents
+Personal Care,crash / impact,11,1194,0.9,incidents
+Personal Care,drowning,2,1194,0.2,incidents
+Personal Care,electric shock,103,1194,8.6,incidents
+Personal Care,explosion / rupture,147,1194,12.3,incidents
+Personal Care,fall / tip-over,62,1194,5.2,incidents
+Personal Care,fire / burn,876,1194,73.4,incidents
+Personal Care,laceration / cut,156,1194,13.1,incidents
+Personal Care,mechanical failure / breakage,221,1194,18.5,incidents
+Personal Care,none stated,91,1194,7.6,incidents
+Personal Care,poison / chemical / lead,32,1194,2.7,incidents
+Personal Care,strangulation / entrapment,2,1194,0.2,incidents
+Personal Care,suffocation,3,1194,0.3,incidents
+Products at Public Facilities,choking / ingestion,2,94,2.1,incidents
+Products at Public Facilities,crash / impact,3,94,3.2,incidents
+Products at Public Facilities,electric shock,8,94,8.5,incidents
+Products at Public Facilities,explosion / rupture,7,94,7.4,incidents
+Products at Public Facilities,fall / tip-over,14,94,14.9,incidents
+Products at Public Facilities,fire / burn,34,94,36.2,incidents
+Products at Public Facilities,laceration / cut,6,94,6.4,incidents
+Products at Public Facilities,mechanical failure / breakage,32,94,34.0,incidents
+Products at Public Facilities,none stated,18,94,19.1,incidents
+Products at Public Facilities,poison / chemical / lead,5,94,5.3,incidents
+Products at Public Facilities,strangulation / entrapment,3,94,3.2,incidents
+Sports and Recreation,choking / ingestion,30,4493,0.7,incidents
+Sports and Recreation,crash / impact,454,4493,10.1,incidents
+Sports and Recreation,drowning,68,4493,1.5,incidents
+Sports and Recreation,electric shock,96,4493,2.1,incidents
+Sports and Recreation,explosion / rupture,285,4493,6.3,incidents
+Sports and Recreation,fall / tip-over,1161,4493,25.8,incidents
+Sports and Recreation,fire / burn,921,4493,20.5,incidents
+Sports and Recreation,laceration / cut,432,4493,9.6,incidents
+Sports and Recreation,mechanical failure / breakage,1904,4493,42.4,incidents
+Sports and Recreation,none stated,896,4493,19.9,incidents
+Sports and Recreation,poison / chemical / lead,90,4493,2.0,incidents
+Sports and Recreation,strangulation / entrapment,26,4493,0.6,incidents
+Sports and Recreation,suffocation,18,4493,0.4,incidents
+Toys & Children,choking / ingestion,788,3626,21.7,incidents
+Toys & Children,crash / impact,81,3626,2.2,incidents
+Toys & Children,drowning,6,3626,0.2,incidents
+Toys & Children,electric shock,55,3626,1.5,incidents
+Toys & Children,explosion / rupture,240,3626,6.6,incidents
+Toys & Children,fall / tip-over,675,3626,18.6,incidents
+Toys & Children,fire / burn,541,3626,14.9,incidents
+Toys & Children,laceration / cut,569,3626,15.7,incidents
+Toys & Children,mechanical failure / breakage,1009,3626,27.8,incidents
+Toys & Children,none stated,770,3626,21.2,incidents
+Toys & Children,poison / chemical / lead,397,3626,10.9,incidents
+Toys & Children,strangulation / entrapment,51,3626,1.4,incidents
+Toys & Children,suffocation,26,3626,0.7,incidents
+Yard & Garden,choking / ingestion,23,3455,0.7,incidents
+Yard & Garden,crash / impact,89,3455,2.6,incidents
+Yard & Garden,drowning,9,3455,0.3,incidents
+Yard & Garden,electric shock,112,3455,3.2,incidents
+Yard & Garden,explosion / rupture,630,3455,18.2,incidents
+Yard & Garden,fall / tip-over,327,3455,9.5,incidents
+Yard & Garden,fire / burn,1861,3455,53.9,incidents
+Yard & Garden,laceration / cut,641,3455,18.6,incidents
+Yard & Garden,mechanical failure / breakage,901,3455,26.1,incidents
+Yard & Garden,none stated,445,3455,12.9,incidents
+Yard & Garden,poison / chemical / lead,106,3455,3.1,incidents
+Yard & Garden,strangulation / entrapment,3,3455,0.1,incidents
+Yard & Garden,suffocation,13,3455,0.4,incidents
