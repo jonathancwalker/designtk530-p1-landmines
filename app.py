@@ -16,5 +16,6 @@ pages = [
     st.Page("views/whats_next.py", title="What I'd test next"),
     st.Page("views/ai_check.py", title="AI critique"),
     st.Page("views/appendix.py", title="Appendix"),
+    st.Page("views/walkthrough.py", title="Video walkthrough"),
 ]
 st.navigation(pages, position="top").run()

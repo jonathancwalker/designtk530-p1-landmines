@@ -81,10 +81,6 @@ with hyp_l:
 with hyp_r:
     st.image(str(ASSETS / "hypothesis_bird.png"), width="stretch")
 
-walkthrough = ASSETS / "walkthrough.mp4"
-if walkthrough.exists():
-    with st.expander("▶ Watch the walkthrough"):
-        st.video(str(walkthrough))
 
 st.space("large")
 

@@ -2,15 +2,16 @@
 
 **Live:** https://designtk530-p1-landmines.streamlit.app/
 
-Streamlit dashboard for DESIGNTK530 Project 1. It presents the whole project in five tabs:
+Streamlit dashboard for DESIGNTK530 Project 1. It presents the whole project in six tabs:
 
 - **The story**: the question, my hypothesis, four findings (recalls aren't going down; three lists that don't match; every product has its own villain; what people write) and what it means for a product team.
 - **Check your product**: type what you're building and see the most similar past recalls and what went wrong with them.
 - **What I'd test next**: the A/B test proposal, plus how well the category prediction holds up on examples it never saw.
 - **AI critique**: what an AI tool said about the project, and what I took from it.
 - **Appendix**: explore the trend with filters, the full charts, data, cleaning, methods, design changes and limits.
+- **Video walkthrough**: a ~4-minute screen recording of the dashboard.
 
-To add a screen-recorded walkthrough, save it as `assets/walkthrough.mp4`; it shows up on the story tab automatically.
+The walkthrough video lives at `assets/walkthrough.mp4` (compressed to 1080p H.264 so it streams in any browser).
 
 ## Run it
 
