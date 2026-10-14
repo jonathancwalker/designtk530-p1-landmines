@@ -1,4 +1,6 @@
-# Product Safety Explorer (dashboard)
+# Know the Landmines (dashboard)
+
+**Live:** https://designtk530-p1-landmines.streamlit.app/
 
 Streamlit dashboard for DESIGNTK530 Project 1. It presents the whole project, in three pages:
 
