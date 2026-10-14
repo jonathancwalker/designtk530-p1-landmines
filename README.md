@@ -2,13 +2,15 @@
 
 **Live:** https://designtk530-p1-landmines.streamlit.app/
 
-Streamlit dashboard for DESIGNTK530 Project 1. It presents the whole project, in three pages:
+Streamlit dashboard for DESIGNTK530 Project 1. It presents the whole project in five tabs:
 
-- **The story**: one scrolling page from the question, through five findings (trend, where, how serious, what goes wrong, and the text analysis), to what a product team should do, the proposed A/B test, and limits and next steps.
-- **Check your product**: type a product description and see the most similar past recalls and what went wrong with them.
-- **Data & methods**: sources, cleaning, the recall category classifier, hazard tagging, how the search works (with a live comparison of methods) and how the dashboard design changed.
+- **The story**: the question, my hypothesis, four findings (recalls aren't going down; three lists that don't match; every product has its own villain; what people write) and what it means for a product team.
+- **Check your product**: type what you're building and see the most similar past recalls and what went wrong with them.
+- **What I'd test next**: the A/B test proposal, plus how well the category prediction holds up on examples it never saw.
+- **AI critique**: what an AI tool said about the project, and what I took from it.
+- **Appendix**: explore the trend with filters, the full charts, data, cleaning, methods, design changes and limits.
 
-To add the screen-recorded walkthrough, save it as `dashboard/assets/walkthrough.mp4`; it shows up on the story and methods pages automatically.
+To add a screen-recorded walkthrough, save it as `assets/walkthrough.mp4`; it shows up on the story tab automatically.
 
 ## Run it
 
@@ -32,6 +34,7 @@ To rebuild them after re-running the notebook (which writes `Data/incidents_clea
 
 ```bash
 python dashboard/build_data.py
+python dashboard/validate_model.py   # the 'never seen' check on the test-next tab
 ```
 
 ## How the search works
